@@ -61,9 +61,3 @@ prog
 
 prog.parse(process.argv)
 
-/*
-const result = levenshtein.get('[DHR][Boruto - Naruto Next Generations][01][BIG5][720P][AVC_AAC].mp4', '[DHR][Boruto - Naruto Next Generations][02][BIG5][720P][AVC_AAC].mp4')
-const com = common(['[DHR][Boruto - Naruto Next Generations][01][BIG5][720P][AVC_AAC].mp4', '[DHR][Boruto - Naruto Next Generations][02][BIG5][720P][AVC_AAC].mp4'])
-console.log('com', com)
-console.log('result', result)
-*/
