@@ -1,0 +1,19 @@
+{
+  "name": "prefix-collector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/akinoniku/prefix-collector.git",
+  "author": "akinoniku <akinoniku@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=7"
+  },
+  "dependencies": {
+    "caporal": "^0.7.0",
+    "common-prefix": "^1.1.0",
+    "fast-levenshtein": "^2.0.6",
+    "lodash": "^4.17.4",
+    "shelljs": "^0.7.8",
+    "string-score": "^1.0.1"
+  }
+}
